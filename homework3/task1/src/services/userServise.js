@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const dbFilePath = './src/db/db.json';
+const dbFilePath = './task1/src/db/db.json';
 
 export const getUsersData = async () => {
     try {

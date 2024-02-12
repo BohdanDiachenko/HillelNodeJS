@@ -27,7 +27,7 @@ function processImage(imageUrl, directoryPath) {
 
 
 const imageUrl = 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*Mzke-P8i4j5ze4wuQ3hBKQ.jpeg';
-const directoryPath = './images';
+const directoryPath = './task2//images';
 
 processImage(imageUrl, directoryPath)
     .then(savedPath => {
