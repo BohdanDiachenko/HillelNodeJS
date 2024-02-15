@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "sneakers",
+        "price": 109.95,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "T-shirt",
+        "price": 135.30,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "jeans",
+        "price": 205.60,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "cap",
+        "price": 68.70,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "shorts",
+        "price": 159.95,
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "shirt",
+        "price": 199.95,
+        "quantity": 1
+    }
+]
